@@ -1,4 +1,9 @@
 {
+  "engines": {
+    "npm": "5.7.1",
+    "node": "11.2.0"
+  },
+
   "short_name": "React App",
   "name": "Create React App Sample",
   "icons": [
